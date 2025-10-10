@@ -1,4 +1,8 @@
 .mainbox {
-    color:blueviolet;
+    background-color:blue;
     
+}
+
+body {
+    background-color:rgb(255, 255, 189);
 }
